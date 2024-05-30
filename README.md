@@ -1,1 +1,1 @@
-Hi!  I'm Apache, and I do a bit of hobby programming sometimes.
+Hi!  I'm Apache, and I do some hobby programming mainly in C, C++, and Rust
